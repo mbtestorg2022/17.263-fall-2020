@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-There are no formal prerequisites, though it is helpful to have previously taken an introductory political science course such as _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013/)_.
+There are no formal prerequisites, though it is helpful to have previously taken an introductory political science course such as _[17.20 Introduction to American Politics](/courses/17-20-introduction-to-american-politics-spring-2013)_.
 
 Course Description 
 -------------------
